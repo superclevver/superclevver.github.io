@@ -6,7 +6,7 @@
 
 [![Resume Preview](https://i.gyazo.com/2508db0f64c7509f30b263eae9d1cc3f.png)](https://superclevver.github.io/)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
+**[View Live Preview](https://superclevver.github.io/)**
 
 ## Status
 
