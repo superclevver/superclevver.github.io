@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Resume Preview](https://gyazo.com/2508db0f64c7509f30b263eae9d1cc3f)](https://superclevver.github.io/)
+[![Resume Preview](https://i.gyazo.com/2508db0f64c7509f30b263eae9d1cc3f.png)](https://superclevver.github.io/)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
 
